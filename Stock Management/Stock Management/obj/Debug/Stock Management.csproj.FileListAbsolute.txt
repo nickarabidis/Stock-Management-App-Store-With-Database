@@ -1,0 +1,69 @@
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.AssemblyReference.cache
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.SuggestedBindingRedirects.cache
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Login.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Properties.Resources.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.StockMain.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.GenerateResource.cache
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.CoreCompileInputs.cache
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\bin\Debug\Stock Management.exe.config
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\bin\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\bin\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Products.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Providers.resources
+F:\PROJECTS\Stock Management\Stock Management\Stock Management\obj\Debug\Stock_Management.Customers.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Stock Management.exe.config
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.AssemblyReference.cache
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.SuggestedBindingRedirects.cache
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Customers.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Login.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Products.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Properties.Resources.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Providers.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.GenerateResource.cache
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.CoreCompileInputs.cache
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.BestSeller.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.employeeStockMain.resources
+F:\PROJECTS\Stock Management\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.adminStockMain.resources
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.AssemblyReference.cache
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.SuggestedBindingRedirects.cache
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.BestSeller.resources
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Customers.resources
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.employeeStockMain.resources
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Login.resources
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Products.resources
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Properties.Resources.resources
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.Providers.resources
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock_Management.adminStockMain.resources
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.GenerateResource.cache
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.CoreCompileInputs.cache
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Stock Management.exe.config
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Stock Management.exe
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\EntityFramework.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\EntityFramework.SqlServer.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Microsoft.Data.Sqlite.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\SQLitePCLRaw.core.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Buffers.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Data.SQLite.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Data.SQLite.EF6.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Data.SQLite.Linq.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Memory.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Numerics.Vectors.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\EntityFramework.xml
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\EntityFramework.SqlServer.xml
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\Microsoft.Data.Sqlite.xml
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Buffers.xml
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Data.SQLite.xml
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Memory.xml
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Numerics.Vectors.xml
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\PROJECTS\Stock Management - Copy\Stock-Management-App-Store\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.CopyComplete
