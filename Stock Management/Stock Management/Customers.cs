@@ -200,7 +200,7 @@ namespace Stock_Management
 
         private void productQuantityTextBox_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!char.IsNumber(e.KeyChar) & (Keys)e.KeyChar != Keys.Back & e.KeyChar != '.')
+            if (!char.IsNumber(e.KeyChar) & (Keys)e.KeyChar != Keys.Back)
             {
                 e.Handled = true;
             }
