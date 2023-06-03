@@ -25,6 +25,15 @@ namespace Stock_Management
             this.ActiveControl = productEditDateTimePicker;
             this.productCodeTextBox.Enabled = false;
             this.productSalesFrequencyTextBox.Enabled = false;
+            this.productCodeTextBox.MaxLength = 3;
+            this.productNameTextBox.MaxLength = 50;
+            this.productCategoryTextBox.MaxLength = 50;
+            this.productQuantityTextBox.MaxLength = 3;
+            this.productQuantityMinTextBox.MaxLength = 3;
+            this.productReleaseDateTextBox.MaxLength = 4;
+            this.productPriceTextBox.MaxLength = 4;
+            this.productRealPriceTextBox.MaxLength = 4;
+
             LoadData();
             Search();
         }
@@ -183,6 +192,14 @@ namespace Stock_Management
             {
                 e.Handled = true;
             }
+            if (e.KeyChar == '.')
+            {
+                productPriceTextBox.MaxLength = productPriceTextBox.Text.Length + 3;
+            }
+            else if((Keys)e.KeyChar == Keys.Back)
+            {
+                productPriceTextBox.MaxLength = 4;
+            }
         }
 
         private void productRealPriceTextBox_KeyPress(object sender, KeyPressEventArgs e)
@@ -190,6 +207,14 @@ namespace Stock_Management
             if (!char.IsNumber(e.KeyChar) & (Keys)e.KeyChar != Keys.Back & e.KeyChar != '.' & e.KeyChar != '€' & e.KeyChar != '$')
             {
                 e.Handled = true;
+            }
+            if (e.KeyChar == '.')
+            {
+                productRealPriceTextBox.MaxLength = productRealPriceTextBox.Text.Length + 3;
+            }
+            else if ((Keys)e.KeyChar == Keys.Back)
+            {
+                productRealPriceTextBox.MaxLength = 4;
             }
         }
 
@@ -616,6 +641,7 @@ namespace Stock_Management
                 }
             }
         }
+
 
     }
 }

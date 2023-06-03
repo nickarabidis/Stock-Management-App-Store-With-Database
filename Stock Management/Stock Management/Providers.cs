@@ -24,7 +24,13 @@ namespace Stock_Management
         {
             this.ActiveControl = providerDateTimePicker;
             providerCodeTextBox.Enabled = false;
+            providerCodeTextBox.MaxLength = 3;
+            providerCompanyNameTextBox.MaxLength = 50;
+            providerEmailTextBox.MaxLength = 50;
+            providerWebsiteTextBox.MaxLength = 50;
             providerCellphoneTextBox.MaxLength = 13;
+            productCodeTextBox.MaxLength = 3;
+            productQuantityTextBox.MaxLength = 3;
             LoadData();
             Search();
         }

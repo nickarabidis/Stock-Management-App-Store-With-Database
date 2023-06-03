@@ -24,6 +24,8 @@ namespace Stock_Management
 
         private void Login_Load(object sender, EventArgs e)
         {
+            usernameTextbox.MaxLength = 50;
+            passwordTextbox.MaxLength = 50;
             /*
             if the db doesnt exists it creates the db connection
             and setup the tables

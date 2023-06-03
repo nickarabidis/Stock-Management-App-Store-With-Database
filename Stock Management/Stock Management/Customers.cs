@@ -22,8 +22,15 @@ namespace Stock_Management
         {
             this.ActiveControl = customerDateTimePicker;
             customerCodeTextBox.Enabled = false;
+            customerCodeTextBox.MaxLength = 3;
+            customerCompanyNameTextBox.MaxLength = 50;
+            customerEmailTextBox.MaxLength = 50;
+            customerAddressTextBox.MaxLength = 50;
+            customerTaxOfficeTextBox.MaxLength = 50;
             customerCellphoneTextBox.MaxLength = 13;
             customerVATNumberTextBox.MaxLength = 9;
+            productCodeTextBox.MaxLength = 3;
+            productQuantityTextBox.MaxLength = 3;
             LoadData();
             Search();
         }
