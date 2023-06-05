@@ -25,7 +25,7 @@ namespace Ofthalmiatrio
         static PdfMaker()
         {
 
-            var font = FontRepository.FindFont("Arial");
+            var font = FontRepository.FindFont("Times New Roman");
             stoixeiats = new Aspose.Pdf.Text.TextState();
             generalts = new Aspose.Pdf.Text.TextState();
             textts = new Aspose.Pdf.Text.TextState();
@@ -34,15 +34,15 @@ namespace Ofthalmiatrio
 
             stoixeiats.Font = font;
             stoixeiats.Font.IsEmbedded = true;
-            stoixeiats.FontSize = 15;
+            stoixeiats.FontSize = 14;
             stoixeiats.FontStyle = FontStyles.Bold;
 
-            generalts.FontSize = 17;
+            generalts.FontSize = 18;
             generalts.Font = font;
             generalts.Font.IsEmbedded = true;
             generalts.FontStyle = FontStyles.Italic;
 
-            textts.FontSize = 11;
+            textts.FontSize = 12;
             textts.Font = font;
             textts.Font.IsEmbedded = true;
         }

@@ -33,11 +33,6 @@
             this.menuStrip = new System.Windows.Forms.MenuStrip();
             this.productsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.customersToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.reportsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.receiptToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.invoiceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.proFormaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.creditDocToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.logoutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.statusStrip = new System.Windows.Forms.StatusStrip();
             this.toolStripStatusLabel = new System.Windows.Forms.ToolStripStatusLabel();
@@ -52,7 +47,6 @@
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.productsToolStripMenuItem,
             this.customersToolStripMenuItem,
-            this.reportsToolStripMenuItem,
             this.logoutToolStripMenuItem});
             this.menuStrip.Location = new System.Drawing.Point(0, 0);
             this.menuStrip.Name = "menuStrip";
@@ -74,41 +68,6 @@
             this.customersToolStripMenuItem.Size = new System.Drawing.Size(76, 20);
             this.customersToolStripMenuItem.Text = "Customers";
             this.customersToolStripMenuItem.Click += new System.EventHandler(this.customersToolStripMenuItem_Click);
-            // 
-            // reportsToolStripMenuItem
-            // 
-            this.reportsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.receiptToolStripMenuItem,
-            this.invoiceToolStripMenuItem,
-            this.proFormaToolStripMenuItem,
-            this.creditDocToolStripMenuItem});
-            this.reportsToolStripMenuItem.Name = "reportsToolStripMenuItem";
-            this.reportsToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
-            this.reportsToolStripMenuItem.Text = "Reports";
-            // 
-            // receiptToolStripMenuItem
-            // 
-            this.receiptToolStripMenuItem.Name = "receiptToolStripMenuItem";
-            this.receiptToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
-            this.receiptToolStripMenuItem.Text = "Receipt";
-            // 
-            // invoiceToolStripMenuItem
-            // 
-            this.invoiceToolStripMenuItem.Name = "invoiceToolStripMenuItem";
-            this.invoiceToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
-            this.invoiceToolStripMenuItem.Text = "Invoice";
-            // 
-            // proFormaToolStripMenuItem
-            // 
-            this.proFormaToolStripMenuItem.Name = "proFormaToolStripMenuItem";
-            this.proFormaToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
-            this.proFormaToolStripMenuItem.Text = "Pro Forma";
-            // 
-            // creditDocToolStripMenuItem
-            // 
-            this.creditDocToolStripMenuItem.Name = "creditDocToolStripMenuItem";
-            this.creditDocToolStripMenuItem.Size = new System.Drawing.Size(130, 22);
-            this.creditDocToolStripMenuItem.Text = "Credit Doc";
             // 
             // logoutToolStripMenuItem
             // 
@@ -167,11 +126,6 @@
         private System.Windows.Forms.ToolTip toolTip;
         private System.Windows.Forms.ToolStripMenuItem productsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem customersToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem reportsToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem receiptToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem invoiceToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem proFormaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem creditDocToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem logoutToolStripMenuItem;
     }
 }
