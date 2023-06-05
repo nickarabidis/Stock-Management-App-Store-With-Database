@@ -70,6 +70,7 @@
             this.productQuantityLabel = new System.Windows.Forms.Label();
             this.totalCustomersValueLabel = new System.Windows.Forms.Label();
             this.customersPanel = new System.Windows.Forms.Panel();
+            this.printButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.customerDataGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.customerErrorProvider)).BeginInit();
             this.customersPanel.SuspendLayout();
@@ -427,6 +428,7 @@
             // customersPanel
             // 
             this.customersPanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(70)))), ((int)(((byte)(84)))));
+            this.customersPanel.Controls.Add(this.printButton);
             this.customersPanel.Controls.Add(this.productCodeTextBox);
             this.customersPanel.Controls.Add(this.deleteButton);
             this.customersPanel.Controls.Add(this.productQuantityTextBox);
@@ -454,6 +456,17 @@
             this.customersPanel.Name = "customersPanel";
             this.customersPanel.Size = new System.Drawing.Size(1226, 165);
             this.customersPanel.TabIndex = 69;
+            // 
+            // printButton
+            // 
+            this.printButton.Location = new System.Drawing.Point(1092, 96);
+            this.printButton.Margin = new System.Windows.Forms.Padding(4);
+            this.printButton.Name = "printButton";
+            this.printButton.Size = new System.Drawing.Size(114, 48);
+            this.printButton.TabIndex = 68;
+            this.printButton.Text = "Print";
+            this.printButton.UseVisualStyleBackColor = true;
+            this.printButton.Click += new System.EventHandler(this.printButton_Click);
             // 
             // Customers
             // 
@@ -521,5 +534,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dgProQuantity;
         private System.Windows.Forms.DataGridViewTextBoxColumn dgCusDate;
         private System.Windows.Forms.Panel customersPanel;
+        private System.Windows.Forms.Button printButton;
     }
 }

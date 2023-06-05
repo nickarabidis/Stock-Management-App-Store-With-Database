@@ -30,6 +30,7 @@ namespace Stock_Management
             if (check)
             {
 
+                //con = new SQLiteConnection($"Data Source = {Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}/db/database.accdb; Version = 3; New = True; Compress = True; ");
                 con = new SQLiteConnection($"Data Source = {Environment.GetFolderPath(Environment.SpecialFolder.Desktop)}/db/database.db; Version = 3; New = True; Compress = True; ");
                 con.Open();
                 check = false;
@@ -122,5 +123,49 @@ namespace Stock_Management
         //    return myReader;
 
         //}
+
+        
+
+        public static SQLiteDataReader getProduct(string ProductCode)
+        {
+            sqlite_cmd = con.CreateCommand();
+
+
+            string getCustomers = $"SELECT * FROM Products WHERE ProductCode = {ProductCode}";
+
+
+            sqlite_cmd.CommandText = getCustomers;
+            sqlite_cmd.CommandType = CommandType.Text;
+            SQLiteDataReader myReader = sqlite_cmd.ExecuteReader();
+            return myReader;
+        }
+
+        public static SQLiteDataReader getProvider(string ProviderCode)
+        {
+            sqlite_cmd = con.CreateCommand();
+
+
+            string getProviders = $"SELECT * FROM Providers WHERE ProviderCode = {ProviderCode}";
+
+
+            sqlite_cmd.CommandText = getProviders;
+            sqlite_cmd.CommandType = CommandType.Text;
+            SQLiteDataReader myReader = sqlite_cmd.ExecuteReader();
+            return myReader;
+        }
+
+        public static SQLiteDataReader getCustomer(string CustomerCode)
+        {
+            sqlite_cmd = con.CreateCommand();
+
+
+            string getCustomers = $"SELECT * FROM Customers WHERE CustomerCode = {CustomerCode}";
+
+
+            sqlite_cmd.CommandText = getCustomers;
+            sqlite_cmd.CommandType = CommandType.Text;
+            SQLiteDataReader myReader = sqlite_cmd.ExecuteReader();
+            return myReader;
+        }
     }
 }

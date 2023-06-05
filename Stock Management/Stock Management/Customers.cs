@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Ofthalmiatrio;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -560,5 +561,26 @@ namespace Stock_Management
             }
         }
 
+        private void printButton_Click(object sender, EventArgs e)
+        {
+            string path_name;
+            var customerCode = Database.getCustomer(customerCodeTextBox.Text);
+            var productCode = Database.getProduct(productCodeTextBox.Text);
+
+            SaveFileDialog print = new SaveFileDialog();
+            print.Filter = "Pdf Files|*.pdf";
+            if (print.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            {
+                path_name = print.FileName;
+                try
+                {
+                    PdfMaker.getCustomer(path_name, customerCode, productCode);
+                }
+                catch (Exception x)
+                {
+                    MessageBox.Show(x.Message);
+                }
+            }
+        }
     }
 }

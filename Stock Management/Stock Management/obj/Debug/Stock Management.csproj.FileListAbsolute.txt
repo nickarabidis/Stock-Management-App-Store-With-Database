@@ -104,3 +104,5 @@ F:\PROJECTS\Stock Management - Database\Stock-Main-App-Store-With-Database\Stock
 F:\PROJECTS\Stock Management - Database\Stock-Main-App-Store-With-Database\Stock Management\Stock Management\obj\Debug\Stock Management.csproj.CopyComplete
 F:\PROJECTS\Stock Management - Database\Stock-Main-App-Store-With-Database\Stock Management\Stock Management\obj\Debug\Stock Management.exe
 F:\PROJECTS\Stock Management - Database\Stock-Main-App-Store-With-Database\Stock Management\Stock Management\obj\Debug\Stock Management.pdb
+F:\PROJECTS\Stock Management - Database\Stock-Main-App-Store-With-Database\Stock Management\Stock Management\bin\Debug\Aspose.PDF.dll
+F:\PROJECTS\Stock Management - Database\Stock-Main-App-Store-With-Database\Stock Management\Stock Management\bin\Debug\Aspose.PDF.xml

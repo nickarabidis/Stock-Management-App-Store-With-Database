@@ -65,6 +65,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
             this.websiteButton = new System.Windows.Forms.Button();
+            this.printButton = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.providerDataGridView)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.providerErrorProvider)).BeginInit();
             this.panel1.SuspendLayout();
@@ -375,6 +376,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(68)))), ((int)(((byte)(70)))), ((int)(((byte)(84)))));
+            this.panel1.Controls.Add(this.printButton);
             this.panel1.Controls.Add(this.clearButton);
             this.panel1.Controls.Add(this.productQuantityTextBox);
             this.panel1.Controls.Add(this.deleteButton);
@@ -408,6 +410,17 @@
             this.websiteButton.Text = "Website";
             this.websiteButton.UseVisualStyleBackColor = true;
             this.websiteButton.Click += new System.EventHandler(this.websiteButton_Click);
+            // 
+            // printButton
+            // 
+            this.printButton.Location = new System.Drawing.Point(873, 109);
+            this.printButton.Margin = new System.Windows.Forms.Padding(4);
+            this.printButton.Name = "printButton";
+            this.printButton.Size = new System.Drawing.Size(103, 43);
+            this.printButton.TabIndex = 72;
+            this.printButton.Text = "Print";
+            this.printButton.UseVisualStyleBackColor = true;
+            this.printButton.Click += new System.EventHandler(this.printButton_Click);
             // 
             // Providers
             // 
@@ -471,5 +484,6 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn dgProviderDate;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button websiteButton;
+        private System.Windows.Forms.Button printButton;
     }
 }
