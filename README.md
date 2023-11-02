@@ -18,15 +18,15 @@ The **Usernames and Passwords** are:
     
 ![image](https://github.com/nickarabidis/Stock-Main-App-Store-With-Database/assets/75751845/36235048-dc69-4ccf-bba9-844c2fc22112)
 
-- Add, Update and Delete a **Product** with it's data.
+- Add, Update and Delete a **Product** with its data.
 
 ![image](https://github.com/nickarabidis/Stock-Main-App-Store-With-Database/assets/75751845/4fe01425-4c45-4e3e-adba-80f5a1e84d24)
 
-- Add, Update and Delete a **Provider** with it's data.
+- Add, Update and Delete a **Provider** with its data.
 
 ![image](https://github.com/nickarabidis/Stock-Main-App-Store-With-Database/assets/75751845/f74a3b75-b1a2-4f23-afa5-9b9cfc96cbe7)
 
-- Add, Update and Delete a **Customer** with it's data.
+- Add, Update and Delete a **Customer** with its data.
 
 ![image](https://github.com/nickarabidis/Stock-Main-App-Store-With-Database/assets/75751845/4d236eac-ab15-4473-bbc3-d5464a723d6a)
 
