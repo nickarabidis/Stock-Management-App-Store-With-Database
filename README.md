@@ -43,6 +43,12 @@ The **Usernames and Passwords** are:
 ![image](https://github.com/nickarabidis/Stock-Main-App-Store-With-Database/assets/75751845/3cd6df4b-8095-43af-b875-d6779ed82219)
 
 - And more...
+  
+## Contributors and Roles
+- [![Nikolaos Arampidis](https://github.com/nickarabidis)]: Programmer
+- [![Ingkli Boja](https://github.com/ingli0)]: Programmer
+- [![George Ntolias](https://github.com/FriedImage)]: Product Manager
+- [![Panagiotis Georgiadis](https://github.com/PanagiotisGew)]: Project Manager
 
 ## Licence
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
