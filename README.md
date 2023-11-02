@@ -45,8 +45,8 @@ The **Usernames and Passwords** are:
 - And more...
   
 ## Contributors and Roles
-- [![Nikolaos Arampidis](https://github.com/nickarabidis)]: Programmer
-- [![Ingkli Boja](https://github.com/ingli0)]: Programmer
+- [![Nikolaos Arampidis](https://github.com/nickarabidis)]: Developer
+- [![Ingkli Boja](https://github.com/ingli0)]: Developer
 - [![George Ntolias](https://github.com/FriedImage)]: Product Manager
 - [![Panagiotis Georgiadis](https://github.com/PanagiotisGew)]: Project Manager
 
