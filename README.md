@@ -1,4 +1,4 @@
-# Electronic Store Management Software 
+# Electronic Store Management Software.
 
 ## Description
 The Electronic Store Management Software is a stock management software specifically for the needs of a Electronic Store.
