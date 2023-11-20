@@ -49,6 +49,7 @@ The **Usernames and Passwords** are:
 - [![Ingkli Boja](https://github.com/ingli0)]: Developer
 - [![George Ntolias](https://github.com/FriedImage)]: Product Manager
 - [![Panagiotis Georgiadis](https://github.com/PanagiotisGew)]: Project Manager
+- [![Bletsas Apostolos](https://github.com/ApBletsas)]: Tester
 
 ## Licence
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
